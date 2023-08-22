@@ -11,4 +11,4 @@ def permute(string, pocket=""):
             together = front + back
             permute(together, letter + pocket)
 
-print(permute("ABC", ""))
+print(permute("3", ""))
