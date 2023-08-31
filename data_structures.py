@@ -118,20 +118,3 @@ family.delete_node("Bob")
 family.delete_tail()
 family.traversal()
 
-
-
-    
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-# family.traversal()
